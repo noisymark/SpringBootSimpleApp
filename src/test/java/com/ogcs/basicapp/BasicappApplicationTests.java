@@ -1,10 +1,10 @@
-package com.ogcs.simpleapp;
+package com.ogcs.basicapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SimpleappApplicationTests {
+class BasicappApplicationTests {
 
 	@Test
 	void contextLoads() {
